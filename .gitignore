@@ -1,5 +1,11 @@
 # Created by https://www.gitignore.io/api/java,gradle
 
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
 # General
 *.DS_Store
 .AppleDouble
