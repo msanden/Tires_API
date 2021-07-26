@@ -1,29 +1,12 @@
 # Created by https://www.gitignore.io/api/java,gradle
 
-
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
 # General
 *.DS_Store
 .AppleDouble
 .LSOverride
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
 # Icon must end with two \r
 Icon
-
 
 # Thumbnails
 ._*
@@ -129,3 +112,5 @@ settings.gradle
 *.iws
 *.iml
 *.ipr
+# Project exclude paths
+/target/
