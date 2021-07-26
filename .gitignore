@@ -6,6 +6,23 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ #
+############
+.idea
+.idea/
+*.iws
+*.iml
+*.ipr
+
 # General
 *.DS_Store
 .AppleDouble
@@ -111,12 +128,5 @@ gradlew.bat
 gradlew
 settings.gradle
 
-# IntelliJ #
-############
-.idea
-.idea/
-*.iws
-*.iml
-*.ipr
 # Project exclude paths
 /target/
